@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Movies Mania</string>
+
+    
+    <string name="title_activity_settings">Movie Settings</string>
+    <string name="movie_order_by_label" >Order By</string>
+    <string name="movie_order_by_key" translatable="false">sort_by</string>
+    <string name="movie_order_by_default" translatable="false">@string/settings_movie_order_by_popularity_value</string>
+
+
+    <string name="settings_movie_order_by_popularity_label">Most Popular</string>
+    <string name="settings_movie_order_by_popularity_value">popularity.desc</string>
+
+    <string name="settings_movie_order_by_rating_label">Top Rated</string>
+    <string name="settings_movie_order_by_rating_value">vote_average.desc</string>
+
+
+</resources>
